@@ -1,6 +1,6 @@
 <?php
 
-namespace CameraAPI\Instructions;
+namespace CameraAPI\Camera\Instructions;
 
 use pocketmine\player\Player;
 
