@@ -1,5 +1,5 @@
 {
-  "name": "CameraAPI",
+  "name": "pixalsver/CameraAPI",
   "description": "a Pocketmine-MP API to use CameraPacket",
   "type": "library",
   "require": {
