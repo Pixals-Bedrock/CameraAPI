@@ -1,8 +1,8 @@
 <?php
 
-namespace CameraAPI\Instructions;
+namespace CameraAPI\Camera\Instructions;
 
-use CameraAPI\CameraPresets;
+use CameraAPI\Camera\CameraPresets;
 use pocketmine\math\Vector3;
 use pocketmine\network\mcpe\protocol\CameraInstructionPacket;
 use pocketmine\network\mcpe\protocol\types\camera\CameraPreset;
