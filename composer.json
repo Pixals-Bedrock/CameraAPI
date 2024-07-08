@@ -17,7 +17,7 @@
   "extra": {
     "virion": {
       "spec": "3.0",
-      "namespace-root": "CameraAPI\\*"
+      "namespace-root": "CameraAPI\\Camera"
     }
   }
 }
