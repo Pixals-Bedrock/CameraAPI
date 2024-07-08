@@ -1,6 +1,6 @@
 <?php
 
-namespace CameraAPI;
+namespace CameraAPI\Camera;
 
 use muqsit\simplepackethandler\SimplePacketHandler;
 use pocketmine\event\EventPriority;
