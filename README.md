@@ -1,5 +1,5 @@
 # CameraAPI
-CameraAPI is an API that makes it easy to use the CameraPacket.
+CameraAPI is an API that makes it easy to use the CameraPacket., Pixals Network Has Updated The Composer.json only, All Copyrights are reserved to the original author
 
 # Usage
 Install [SimplePacketHandler](https://github.com/Muqsit/SimplePacketHandler/releases) on your server
