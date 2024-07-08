@@ -1,6 +1,6 @@
 <?php
 
-namespace CameraAPI\Instructions;
+namespace CameraAPI\Camera\Instructions;
 
 use pocketmine\network\mcpe\protocol\CameraInstructionPacket;
 use pocketmine\player\Player;
