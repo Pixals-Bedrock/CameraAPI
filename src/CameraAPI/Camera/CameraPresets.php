@@ -1,6 +1,6 @@
 <?php
 
-namespace CameraAPI;
+namespace CameraAPI\Camera;
 
 use pocketmine\network\mcpe\protocol\types\camera\CameraPreset;
 use pocketmine\utils\RegistryTrait;
